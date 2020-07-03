@@ -1,0 +1,136 @@
+nav{
+  background-color: rgb(17, 17, 17);
+}
+body{
+  background-color: #2b2929 !important;
+}
+nav a {
+  color: #DDDDDD !important;
+}
+.searchBtn{
+  width: 40px !important;
+  height: 40px !important;
+  border-radius: 50% !important;
+  color: white !important;
+  border-color: #E50914 !important;
+}
+.registerBtn {
+  border-color: #E50914 !important;
+  color: white !important;
+  margin: 0 10px;
+}
+.registerBtn:hover {
+  color: #E50914 !important;
+  background-color: black;
+}
+.searchResults img{
+  height: 250px
+}
+.searchResults img:hover{
+  transform: scale(1.1);
+  transition: ease-in-out 0.4s;
+}
+.searchResults p {
+  color: #E50914 !important;
+  font-size: 24px;
+}
+.showDetails {
+  color: white;
+}
+.year{
+  font-size: 17px;
+}
+.belowTitle{
+  font-size: 12px;
+}
+.plot{
+ margin-top: auto;
+}
+.cast{
+  font-size: 14px;
+}
+.cast p {
+  margin: 0;
+  padding: 0;
+}
+.reviews p{
+  font-size: 13px;
+  margin: 0;
+  padding: 5px;
+}
+.glide__slides li {
+  color: white;
+}
+.glide img{
+  height: 14rem;
+  width: 12rem;
+}
+.glide__track{
+  width: 90vw;
+  margin:0 auto
+}
+
+.glide__arrows button{
+  border: none;
+  border-radius: 20px;
+  font-size: 1.2rem;
+  color: #E50914;
+  /* box-shadow: 9px -9px 21px 9px rgba(0,0,0,0.75); */
+}
+.glide__arrow--left{
+  left: 0.5vw !important;
+}
+.glide__arrow--right{
+  right: 0.5vw!important;
+}
+.movieName {
+  color: white;
+  font-size: 24px;
+}
+.form{
+  color: white !important;
+  max-width: 60% !important;
+}
+.errorMsg {
+  color: red;
+  font-size: 12px;
+}
+.approveMsg{
+  color: green;
+  font-size: 12px;
+}
+.submitBtn{
+  margin-left: 40%;
+}
+.form p{
+  font-size: 40px;
+}
+.crsl img {
+  height: 14rem;
+  width: 12rem;
+}
+.crsl {
+  max-width: 95%;
+}
+
+.react-multiple-carousel__arrow {
+  font-size: 10px !important;
+  background-color: #E50914 !important;
+  min-width:33px !important;
+  min-height:33px !important;
+}
+.react-multiple-carousel__arrow:focus{
+  outline: none !important;
+}
+.submitReviewBtn{
+  background-color: #E50914 !important;
+  color: black;
+  outline: none;
+  border: none !important;
+  border-radius: 20px !important;
+}
+.reviews h6{
+  color: #E50914 !important;
+  margin-left: 4px;
+  font-size: 18px;
+}
